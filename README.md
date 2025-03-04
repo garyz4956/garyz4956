@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI NPC Agent in Games**
 - 🌱 I’m currently learning **AI Agent, RAG, Python.**
-- 👨‍💻 All of my projects and articles are available at [https://garyz4956.com](garyz4956.com)
+- 👨‍💻 All of my projects and articles are available at [https://garyz4956.com](https://garyz4956.com)
 - 📫 How to reach me **garyzhang4956@gmail.com**
 - ⚡ Fun fact: I ❤️ games and sports
 
