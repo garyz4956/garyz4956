@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Gary Zhang</h1>
 <h3 align="left">A passionate full-stack engineer living in Toronto.</h3>
 
+> The best time to plant a tree was 20 years ago. The second best time is today.
+
 - 🔭 I’m currently working on **AI NPC Agent in Games**
 - 🌱 I’m currently learning **AI Agent, RAG, Python.**
 - 👨‍💻 All of my projects and articles are available at [My Website](https://garyz4956.com)
